@@ -24,5 +24,6 @@
   <tr>
     <td><a href="https://github.com/robertnurnberg/matetools">matetools</a></td>
     <td><a href="https://github.com/robertnurnberg/matetb">matetb</a></td>
+    <td><a href="https://github.com/robertnurnberg/matezoo">matezoo</a></td>
   </tr>
 </table>
